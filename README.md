@@ -133,12 +133,3 @@ POO/
 
 ---
 
-## 🤝 **Contribuciones**
-
-¡Las contribuciones son bienvenidas! Si encuentras un error o tienes una sugerencia de mejora, por favor crea un *issue* o un *pull request*.
-
----
-
-## 📝 **Licencia**
-
-Este proyecto se distribuye bajo la licencia MIT.
